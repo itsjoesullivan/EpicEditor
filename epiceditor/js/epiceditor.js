@@ -670,7 +670,7 @@
         if (self.eeState.fullscreen) {
           self.preview();
         }
-      }, 250);
+      }, 10);
     });
     
     fsElement = self.iframeElement;
